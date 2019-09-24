@@ -19,7 +19,7 @@
 1. esc - command mode
 1. i - insert mode
 
-##acronyms
+## acronyms
 1. IDE - Integrated Development Environment
 1. GUI - Graphical User Interface
 1. CLI - Command-line Interface

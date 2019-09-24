@@ -25,3 +25,6 @@
 1. CLI - Command-line Interface
 1. VI - Visual Editor
  
+ ## Tips 
+ 1. Always practice making commits, and remember to make contributions even after the program.
+ 

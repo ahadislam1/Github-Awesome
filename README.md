@@ -26,5 +26,8 @@
 1. VI - Visual Editor
  
  ## Tips 
- 1. Always practice making commits, and remember to make contributions even after the program.
+ 1. Always practice making commits, and remember to make contributions even after Pursuit.
+ 1. Remember to find a balance in your work-life.  Making sure everything is kinda good. [Healthwise and whatsit]
+ 1. Don't be afraid to ask questions.
+ 1. Work on your commits.
  

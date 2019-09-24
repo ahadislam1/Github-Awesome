@@ -14,14 +14,14 @@
 1. rm - deletes files
 1. rm - rf deletes folder
 
-## vi (visual editor)
+## Vi 
 1. :wq - save and quits
 1. esc - command mode
 1. i - insert mode
 
-## acronyms
+## Acronyms
 1. IDE - Integrated Development Environment
 1. GUI - Graphical User Interface
 1. CLI - Command-line Interface
- 
+1. VI - Visual Editor
  
